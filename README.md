@@ -1,4 +1,4 @@
-Guessing Game
+Guessing Game,
 This is a simple Python-based game where the user is tasked with guessing a randomly generated number between 1 and 10. The player has 10 chances to make a correct guess, and at the end of the game, their prediction accuracy is calculated as a percentage. Based on the accuracy, feedback is provided to encourage practice and improvement.
 
 Features
